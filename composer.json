@@ -1,0 +1,12 @@
+{
+    "name": "phroggyy/php7compatibility",
+    "description": "Call non-static methods statically",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Leo Sjöberg",
+            "email": "leo.sjoberg@gmail.com"
+        }
+    ],
+    "require": {}
+}
