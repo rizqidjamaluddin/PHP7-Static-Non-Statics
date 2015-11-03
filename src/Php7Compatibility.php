@@ -2,7 +2,7 @@
 
 namespace Phroggyy\Utilities
 
-Trait Php7Compatibility
+trait Php7Compatibility
 {
     /**
      * Ensures that calling non-static methods statically works.
